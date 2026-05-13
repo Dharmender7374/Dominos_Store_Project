@@ -105,8 +105,8 @@ Derived business insights by answering stakeholder-driven questions to support d
    - Percentage of customers who ordered more than once
 
 # Key Findings
-**Customer Behaviour:** High-value and repeat customers identified.  
--**Order Trends:** Peak hours, weekends, and seasonal patterns discovered.  
+-Customer Behaviour: High-value and repeat customers identified.  
+-Order Trends: Peak hours, weekends, and seasonal patterns discovered.  
 -**Menu Insights:** Top-selling pizzas, revenue contributors, and popular sizes identified.  
 -**Revenue Analysis:** Monthly revenue, cumulative trends, and category-wise contributions analyzed.  
 -**Operational Insights:** Average order size, daily pizzas, and staffing optimization recommendations provided.  
