@@ -26,11 +26,11 @@ Derived business insights by answering stakeholder-driven questions to support d
 
 ## Tables:
 
-- **orders**: Contains order-level information (order_id, custId,order_date,order_time).
-- **order_details**: Contains details of each order (order_detail_id,order_id,pizza_id, quantity).
-- **pizzas**: Contains pizza information (pizza_id, pizza_type_id, size, price).
-- **pizza_types**: Contains pizza type info (pizza_type_id, name, category).
-- **customers**: Contains customer info (custId, first_name, last_name).
+- `orders`: Contains order-level information (order_id, custId,order_date,order_time).
+- `order_details`: Contains details of each order (order_detail_id,order_id,pizza_id, quantity).
+- `pizzas`: Contains pizza information (pizza_id, pizza_type_id, size, price).
+- `pizza_types`: Contains pizza type info (pizza_type_id, name, category).
+- `customers`: Contains customer info (custId, first_name, last_name).
 
 
 
