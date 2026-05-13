@@ -32,8 +32,12 @@ Derived business insights by answering stakeholder-driven questions to support d
 - `pizza_types`: Contains pizza type info (pizza_type_id, name, category).
 - `customers`: Contains customer info (custId, first_name, last_name).
 
+# Data Cleaning & Exploration
+- Verify total records in each table.
+- Check for null or missing values in critical columns.
+- Remove incomplete or inconsistent records.
 
-
+# Analysis & Queries
 
 
 
