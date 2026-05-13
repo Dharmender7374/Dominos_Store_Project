@@ -1,2 +1,2 @@
-# Dominos_Store_Project
 ![Dominos Logo](img.png)
+## Domino's Pizza Store Analysis SQL Project
